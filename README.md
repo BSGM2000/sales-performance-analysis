@@ -9,7 +9,7 @@
 # English
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](./images/dashboard-preview.png)
 
 ## 📌 Key Results
 
@@ -168,7 +168,7 @@ Data Analytics Project developed as part of a portfolio focused on business anal
 
 ## 📸 Vista previa del panel de control
 
-![Panel de control](images/dashboard-preview.png)
+![Panel de control](./images/dashboard-preview.png)
 
 ## 📌 Resultados clave
 
