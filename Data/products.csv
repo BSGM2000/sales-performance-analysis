@@ -1,0 +1,16 @@
+product_id,product_name,category,cost,supplier
+P01,Laptop Pro 15,Computo,800,TechCorp
+P02,Mouse Wireless,Accesorios,20,PeriTech
+P03,Teclado Mecánico,Perifericos,35,PeriTech
+P04,Monitor 24",Computo,150,ScreenWorld
+P05,Smartphone X,Moviles,900,MobileInc
+P06,Cable HDMI,Accesorios,-5,CableMax
+P07,Laptop Air 13,Computo,700,TechCorp
+P08,Tablet Plus,Moviles,400,MobileInc
+P09,Mouse Pad,accesorios,2,PeriTech
+P10,Impresora Laser,Perifericos,250,PrintPro
+P11,Smartwatch Z,Moviles,300,MobileInc
+P12,Auriculares Pro,Perifericos,80,SoundTech
+P13,TV 55",Hogar,1200,VisionCorp
+P14,Silla Gamer,Hogar,150,FurniMax
+P14,Silla Gamer,Hogar,150,FurniMax
